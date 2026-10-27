@@ -10,6 +10,7 @@ Initial public release.
 - Explicit distinction between CLI observations and web-runtime snapshots.
 - Protected operator probe export and saved-report assessment.
 - Optional Node.js version checks.
+- MIT license for reuse and redistribution.
 - 44 shell regression cases, plus recorded PHP-FPM and container validation.
 
 Advisory baseline: CVE-2026-111497 as checked on October 27, 2026.

@@ -170,7 +170,11 @@ sh scripts/package-release.sh 0.1.0
 
 Review reports before sharing; they include software versions and local paths.
 The checker inventories version evidence for one CVE and does not certify a
-whole site as safe. No open-source license has been selected yet.
+whole site as safe.
+
+## License
+
+[MIT](LICENSE). Copyright 2026 Avatar New York.
 
 ## Primary references
 
